@@ -2,6 +2,7 @@
 
 ## Description
 This Python script enables you to interact with Bard, an AI language model developed by Google, using WhatsApp by utilizing the pyautogui library.
+Video Demonstration Link - https://www.youtube.com/watch?v=ZPSo-tpU96s
 
 ## Installation and Usage
 1. Clone the project on your local system using: `git clone https://github.com/adhirajpandey/Bard-in-Whatsapp`
